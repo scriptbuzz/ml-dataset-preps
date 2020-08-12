@@ -7,7 +7,7 @@ Why data preparations? More often than not, when I work with raw tabular data, i
 
 The field of data preparations is vast. This document is not intended as an overview of tabular data preparations. It's an overview of my swiss army knife data prep techniques. 
 
-The Programming Ecosystem
+#The Programming Ecosystem
 
 Before we start, let me introduce my core tools and packages for data preparations and visualization. Depending on the use case, I might import additional libraries to augment the capabilities of my core set of tools:
 
