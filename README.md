@@ -23,12 +23,12 @@ Before we start, let me introduce my core tools and packages for data preparatio
 
 # Data Exploration With Pandas
 
-This links opens up a Jupyter notebook containing Pandas operations I use frequently to explore tabular datasets
+This link will open a Jupyter notebook listing Pandas operations I use frequently to explore tabular datasets:
 
 https://github.com/scriptbuzz/tabular-data-preps/blob/master/ml_data_prep.ipynb
 
 Coming next...
 
-- Data Visualization with matplotlib and seaborn
-- Data Preperations With pandas
-- Feature Selection With sklearn
+- Data visualization with matplotlib and seaborn
+- Data preperations with pandas
+- Feature selection and engineering with sklearn
