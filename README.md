@@ -29,4 +29,4 @@ Before we start, let me introduce my core tools and packages for data preparatio
 
 This links opens up a Jupyter notebook containing Pandas operations I use frequently to explore tabular datasets
 
-![Jupyter notebook] (ml_data_prep.ipynb)
+![Jupyter notebook] (https://github.com/scriptbuzz/tabular-data-preps/blob/master/ml_data_prep.ipynb)
