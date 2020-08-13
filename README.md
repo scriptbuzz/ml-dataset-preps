@@ -1,4 +1,4 @@
-# tabular-data-preps
+# tabular data exploration and preperations
 This is a collection of tools and code snippets I employ frequently as part of my data preparation workflow. 
 
 I frequently prep structured and semi-structured tabular data for various target consumers be it training machine learning models, ad-hoc data analysis and visualization, ETL, importing into other data stores, and so on. Over the years, I have become dependent on a core set of Python tools, libraries, and techniques for my data prep pipeline. 
@@ -7,7 +7,7 @@ Why data preparations? More often than not, when I work with raw tabular data, i
 
 The field of data preparations is vast. This document is not intended as an overview of tabular data preparations. It's an overview of my swiss army knife data prep techniques. 
 
-# the programming ecosystem
+# the data exploration and preperation  ecosystem
 
 Before we start, let me introduce my core tools and packages for data preparations and visualization. Depending on the use case, I might import additional libraries to augment the capabilities of my core set of tools:
 
@@ -29,4 +29,4 @@ Before we start, let me introduce my core tools and packages for data preparatio
 
 This links opens up a Jupyter notebook containing Pandas operations I use frequently to explore tabular datasets
 
-![Jupyter notebook] (https://github.com/scriptbuzz/tabular-data-preps/blob/master/ml_data_prep.ipynb)
+![Jupyter notebook] (ml_data_prep.ipynb)
