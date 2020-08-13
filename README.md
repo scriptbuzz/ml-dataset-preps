@@ -25,4 +25,8 @@ Before we start, let me introduce my core tools and packages for data preparatio
 
 **sklearn:** a general machine learning library build on NymPy and matplotlib with a rich set of general ML models but also supports data prep routines. For Deep Learning data prep, frameworks like TensorFlow and PyTorch have their own data prep routines. https://scikit-learn.org/
 
-# 
+# Data Exploration
+
+This links opens up a Jupyter notebook containing Pandas operations I use frequently to explore tabular datasets
+
+![Jupyter notebook] (ml_data_prep.ipynb)
