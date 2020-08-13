@@ -5,9 +5,9 @@ I frequently prep structured and semi-structured tabular data for various target
 
 Why data preparations? More often than not, when I work with raw tabular data, it's  rarely ready for consumption. Common issues include missing data values, inconsistent data formats such as non-standard date/time values, outliers, columns that don't contribute to training a machine learning model, string-formatted categorical data that needs to be transformed into numeric data for number crunching, data that should be one-hot encoded, etc.
 
-The field of data preparations is vast. This document is not intended as an overview of tabular data preparations. It's an overview of my swiss army knife data prep techniques. 
+The field of data exploration and preparations is vast. This document is not intended as an overview of tabular data preparations. It's an overview of my swiss army knife data prep techniques. 
 
-# the data exploration and preperation  ecosystem
+the data exploration and preperation ecosystem:
 
 Before we start, let me introduce my core tools and packages for data preparations and visualization. Depending on the use case, I might import additional libraries to augment the capabilities of my core set of tools:
 
@@ -25,8 +25,8 @@ Before we start, let me introduce my core tools and packages for data preparatio
 
 **sklearn:** a general machine learning library build on NymPy and matplotlib with a rich set of general ML models but also supports data prep routines. For Deep Learning data prep, frameworks like TensorFlow and PyTorch have their own data prep routines. https://scikit-learn.org/
 
-# Data Exploration
+# Data Exploration With Pandas
 
 This links opens up a Jupyter notebook containing Pandas operations I use frequently to explore tabular datasets
 
-![Jupyter notebook] (ml_data_prep.ipynb)
+![Jupyter notebook] (https://github.com/scriptbuzz/tabular-data-preps/blob/master/ml_data_prep.ipynb)
